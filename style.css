@@ -1,0 +1,156 @@
+html{
+    background-color: #987ca4;
+}
+
+body{
+    background-color: #987ca4;
+}
+.nav{
+    color: blue !important;
+}
+header{
+    text-align: center;
+    color: #fffaf0;
+    font-family: 'Judson';font-size: 32px;font-weight: normal;
+    background-color: #987ca4;
+}
+
+
+/* About!   */
+.landingSec{
+    background-color: #987ca4;
+}
+
+#about{
+    font-family: 'Judson';font-size: 40px;font-weight: normal;
+    width: 25%;
+    padding:15px 10px;
+    line-height:130%;
+    color: #fffaf0;
+    float: right;
+    margin-right: 25%;
+    margin-top: 60px;
+}
+
+#clientPhoto{
+    width: 250px;
+    margin-left: 26%;
+    margin-top: 60px;
+}
+
+#mission{
+    margin-top: 80px;
+    margin-left: 25%;
+    font-family: 'Judson';font-size: 26px;
+    color: #fffaf0;
+}
+
+.missionState{
+    margin-left: 50%;
+    margin-top: -38px;
+    font-family: 'Judson';font-size: 26px;
+    color: #fffaf0;
+}
+
+#specialities{
+    margin-left: 25%;
+    margin-top: 100px;
+    font-family: 'Judson';font-size: 26px;
+    color: #fffaf0;
+}
+
+.specialitiesListL{
+    margin-left: 50%;
+    font-family: 'Judson';font-size: 19px;
+    color: #fffaf0;
+}
+
+.specialitiesListR{
+    margin-left: 61%;
+    margin-top: -180px;
+    font-family: 'Judson';font-size: 19px;
+    color: #fffaf0;
+}
+ul{
+    list-style-type: none; /* Remove bullets */
+    padding: 0; /* Remove padding */
+    margin: 0; /* Remove margins */
+}
+
+/*  Projects!   */
+.htmlCss-container { 
+    position: relative; 
+    background-color: #987ca4;
+  } 
+   
+  .image-overlay { 
+    position: absolute; 
+    top: 0; 
+    left: 0; 
+    width: 40%; 
+    height: 100%; 
+    background-color: rgba(0, 0, 0, 0.5); 
+    opacity: 0; 
+    transition: opacity 0.5s ease-in-out; 
+    pointer-events: none; 
+  } 
+   
+  .htmlCss-container:hover .image-overlay { 
+    opacity: 1; 
+    pointer-events: auto; 
+  } 
+   
+  .image-overlay p { 
+    color: white; 
+    text-align: center; 
+    margin-bottom: 10px;
+    font-size: 20px; 
+    padding: 20px; 
+  } 
+
+/*  Contact!    */
+
+
+.together{
+    text-align: center;
+    color: #fffaf0;
+    margin-left: 200px;
+}
+
+.togetherState{
+    text-align: center;
+    color: #fffaf0;
+}
+
+#contactForm{
+    align-items: center;
+    text-align: left;
+    color: #fffaf0;
+    box-sizing: border-box;
+    margin-left: 700px;
+    margin-top: 5%;
+}
+
+#mySubmit{
+    font-family: 'Judson';font-weight: normal;
+    color: #987ca4;
+    width: 400px;
+    height: 45px;
+    background-color: #fffaf0;
+}
+
+input {
+    width: 400px;
+    height: 45px;
+  }
+
+textarea{
+    width: 400px;
+    height: 150px;
+}
+
+footer{
+    text-align: center;
+    color: #fffaf0;
+    margin-left: -50px;
+}
