@@ -1,0 +1,206 @@
+
+head{
+    background-color: #E29284;
+}
+#firstPink{
+    background-color: #E29284;
+}
+header{
+    text-align: center;
+    color: white;
+    font-family: 'Judson';font-size: 32px;font-weight: normal;
+    background-color: #E29284;
+}
+
+.contactBTN{
+    margin-left: 1300px;
+    border: 1px solid white;
+    background-color: white;
+    font-family: 'Judson';font-weight: normal;
+    color: #E29284;
+    width: 100px;
+    height: 35px;
+}
+
+/* About!   */
+.landingSec{
+    background-color: #E29284;
+}
+
+#about{
+    font-family: 'Judson';font-size: 40px;font-weight: normal;
+    width: 25%;
+    padding:15px 10px;
+    line-height:130%;
+    color: white;
+    float: right;
+    margin-right: 25%;
+    margin-top: 60px;
+}
+
+#clientPhoto{
+    width: 250px;
+    margin-left: 26%;
+    margin-top: 60px;
+}
+
+#mission{
+    margin-top: 80px;
+    margin-left: 25%;
+    font-family: 'Judson';font-size: 26px;
+    color: white;
+}
+
+.missionState{
+    margin-left: 50%;
+    margin-top: -38px;
+    font-family: 'Judson';font-size: 26px;
+    color: white;
+}
+
+#specialities{
+    margin-left: 25%;
+    margin-top: 100px;
+    font-family: 'Judson';font-size: 26px;
+    color: white;
+}
+
+.specialitiesListL{
+    margin-left: 50%;
+    font-family: 'Judson';font-size: 19px;
+    color: white;
+}
+
+.specialitiesListR{
+    margin-left: 61%;
+    margin-top: -180px;
+    font-family: 'Judson';font-size: 19px;
+    color: white;
+}
+ul{
+    list-style-type: none; /* Remove bullets */
+    padding: 0; /* Remove padding */
+    margin: 0; /* Remove margins */
+}
+
+/*  Projects!   */
+#firstWhite{
+    background-color: white;
+}
+
+
+.projects{
+    padding-top: 60px;
+    margin-left: 25%;
+    color: #4A5568;
+    font-family: 'Judson';font-size: 26px;
+}
+
+#htmlCircle{
+    margin-left: 50%;
+    margin-top: -10%;
+}
+
+#html{
+    padding-top: 80px;
+}
+
+.htmlCss{
+    margin-left: 57%;
+    margin-top: -4%;
+    color: #4A5568;
+    font-weight: normal;
+}
+
+.htmlSkill{
+    margin-left: 57%;
+    color: #4A5568;
+    padding-top: -20px;
+}
+
+#reactCircle{
+    margin-left: 50%;
+    margin-top: 5%;
+}
+.react{
+    margin-left: 57%;
+    color: #4A5568;
+    margin-top: -4%;
+    font-weight: normal;
+}
+
+.reactSkill{
+    margin-left: 57%;
+    color: #4A5568;
+
+}
+
+a{
+    color: #E29284;
+}
+
+#nodeCircle{
+    margin-left: 50%;
+    margin-top: 3%;
+}
+
+.nodeJS{
+    margin-left: 57%;
+    color: #4A5568;
+    margin-top: -3%;
+    font-weight: normal;
+}
+
+.nodeSkill{
+    margin-left: 57%;
+    color: #4A5568;
+}
+
+
+/*  Contact!    */
+#secondPink{
+    background-color: #E29284;
+    padding-bottom: 200px;
+}
+
+.together{
+    text-align: center;
+    color: white;
+}
+
+.togetherState{
+    text-align: center;
+    color: white;
+}
+
+#contact{
+    align-items: center;
+    text-align: left;
+    color: white;
+    box-sizing: border-box;
+    margin-left: 600px;
+}
+
+#mySubmit{
+    font-family: 'Judson';font-weight: normal;
+    color: #E29284;
+    width: 300px;
+    height: 25px;
+    background-color: white;
+}
+
+input {
+    width: 300px;
+    height: 25px;
+  }
+
+textarea{
+    width: 300px;
+    height: 120px;
+}
+
+footer{
+    text-align: center;
+    color: white;
+    padding-bottom: 1em;
+}
